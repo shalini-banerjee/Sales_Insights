@@ -1,7 +1,7 @@
 ## Sales Insights Data Analysis Project
 
 1. SQL database dump is in db_dump.sql file above. Download both the `db_dump.sql` files to your local computer and import them.
-2. Create _[Key Analysis](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Key%20Analysis.PNG)_ , _[Profit Analysis](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Profit%20Analysis.PNG),_[Performance Insight](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Performance%20Insight.PNG)
+2. Create _[Key Analysis](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Key%20Analysis.PNG)_, [Profit Analysis](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Profit%20Analysis.PNG), [Performance Insight](https://nbviewer.org/github/shalini-banerjee/Sales_Insights/blob/main/Performance%20Insight.PNG)
 
 
 ### Data Analysis Using SQL
